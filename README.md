@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/abdul-hayy-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hayy-khan" height="30" width="40" /></a>
 <a href="https://codepen.io/abdul-hayy-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdul-hayy-khan" height="30" width="40" /></a>
 <a href="https://dev.to/abdulhayykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulhayykhan" height="30" width="40" /></a>
 <a href="https://twitter.com/_abdulhayykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abdulhayykhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-hayy-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hayy-khan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdulhayykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdulhayykhan" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdulhayykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulhayykhan" height="30" width="40" /></a>
 <a href="https://instagram.com/_abdulhayykhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abdulhayykhan" height="30" width="40" /></a>
