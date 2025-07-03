@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Hayy Khan</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
-<p align='center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+my+Github!;Aspiring+AI+Engineer+%E2%80%94+C%2B%2B%2C+Python+%26+Java+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
