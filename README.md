@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Hayy Khan</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
+
 - 🌱 Currently learning **Machine Learning, Deep Learning, and AI**
    
 - 💡 Passionate about solving real-world problems with innovative AI solutions
