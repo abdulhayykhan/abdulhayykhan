@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Always+Learning+Something+New+🚀;Aspiring+AI+Engineer+•+C%2B%2B+•+Python+•+Java;Building+Hands‑on+AI+&+ML+Projects;NVIDIA+GenAI+Cert.+•+Excel+for+Data+Analysis" alt="Typing SVG" />
 </p>
 
 - 🌱 Currently learning **Machine Learning, Deep Learning, and AI**
