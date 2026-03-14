@@ -14,11 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **4th-semester BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET)**, Karachi. I build intelligent systems and full-stack tools that tackle real-world problems.
+I'm a **BS Artificial Intelligence** student at **Dawood University of Engineering & Technology (DUET)**, Karachi. I build intelligent systems and full-stack tools that tackle real-world problems.
 
 - 🤖 Deeply interested in **Machine Learning**, **Deep Learning**, and applied AI
-- 🏆 Active member of **Binary Knights** — competing in hackathons, competitive programming, and SQL competitions
-- 🥈 **Top 10 out of 40 teams** at Query Quest SQL Competition, PROCOM'26 (FAST NUCES Karachi)
 - 🚀 Deployed production-grade apps on **Railway** with real backends and real users
 - 🌱 Currently exploring: **NLP**, **Computer Vision**, and AI search algorithms
 - 💬 Ask me about **Python, FastAPI, AI/ML, or competitive SQL**
@@ -42,6 +40,7 @@ I'm a **4th-semester BS Artificial Intelligence** student at **Dawood University
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
 **Frameworks & Tools**
@@ -54,47 +53,9 @@ I'm a **4th-semester BS Artificial Intelligence** student at **Dawood University
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
----
+**Databases**
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**ByteShift**](https://github.com/abdulhayykhan/ByteShift) | File converter web app with dual PDF rendering, thread-safe progress tracking, and LibreOffice integration. [Live ↗](https://byteshift.up.railway.app) | FastAPI · Railway |
-| [**ResumRank-AI**](https://github.com/abdulhayykhan/resumrank-ai) | AI resume ranker — parses PDFs locally, extracts 500+ skills, weighted scoring (70% skills / 30% experience) | Flask · spaCy · pdfplumber |
-| [**Secure Vault**](https://github.com/abdulhayykhan/secure-vault) | Encrypted file vault with firewall automation and access control | Streamlit · Fernet |
-| [**Enhanced Task Management**](https://github.com/abdulhayykhan/Enhanced-Task-Management-System) | Full-featured task manager with auth, roles, and server-side templating | FastAPI · SQLAlchemy · Jinja2 |
-| [**SLAMS**](https://github.com/abdulhayykhan/SLAMS) | Full-stack academic management system | HTML · PHP · MySQL |
-| [**Encrypted Notes App**](https://github.com/abdulhayykhan/Encrypted-Notes-App) | Desktop notes app with end-to-end encryption | Python · Tkinter · Fernet |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulhayykhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhayykhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdulhayykhan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏅 Achievements
-
-- 🥈 **Top 10 / 40** — Query Quest SQL Competition, PROCOM'26 · FAST NUCES Karachi *(Binary Knights)*
-- 🚀 Deployed production-grade AI apps on Railway with real users
-- 🧑‍💻 **20+ public repositories** spanning AI, web, systems, and security
-- 🎮 Developing **Flappy Rocket** — a cartoonish space-themed game on Astrocade
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulhayykhan&color=58A6FF&style=flat-square&label=Profile+Views" />
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
