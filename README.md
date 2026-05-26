@@ -33,9 +33,9 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 **AI / ML / Data**
 
-| <a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a> | <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a> | <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a> | <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a> | <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a> | <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a> | <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a> | <a href="https://spacy.io"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="40"/></a> |
-|---|---|---|---|---|---|---|---|
-| Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn | spaCy |
+| <a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/></a> | <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></a> | <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/></a> | <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></a> | <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></a> | <a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/></a> | <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a> | <a href="https://spacy.io"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="40"/></a> | <a href="https://www.sbert.net"><img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" width="40"/></a> |
+|---|---|---|---|---|---|---|---|---|
+| Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn | spaCy | Sentence-Transformers |
 
 **Frameworks & Tools**
 
@@ -45,6 +45,6 @@ I'm a **BS Artificial Intelligence** student at **Dawood University of Engineeri
 
 **Databases**
 
-| <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a> | <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a> | <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/></a> | <a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></a> |
-|---|---|---|---|
-| MySQL | PostgreSQL | SQLite | Oracle |
+| <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a> | <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></a> | <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/></a> | <a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></a> | <a href="https://www.trychroma.com"><img src="https://avatars.githubusercontent.com/u/107595827?s=200&v=4" width="40"/></a> |
+|---|---|---|---|---|
+| MySQL | PostgreSQL | SQLite | Oracle | ChromaDB |
